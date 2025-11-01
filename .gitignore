@@ -4,3 +4,4 @@ adios.txt
 __pycache__/
 *.pyc
 main.py
+*.txt
